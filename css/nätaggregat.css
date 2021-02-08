@@ -1,0 +1,54 @@
+body {
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+.bakgrund {
+    background-image: url("../Bilder/standard.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 50vw;
+  background-attachment: scroll;
+  position: absolute;
+}
+
+.border {
+    margin: 0%;
+    background-color: black;
+    height: 5vw;
+    width: 100vw;
+    position: absolute;
+    left: 0vw;
+}
+
+.back {
+    font-family: 'Indie Flower', cursive;
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    font-size: 1vw;
+    top: 0.7vw;
+    left: 1vw;
+    color: white;
+    text-decoration-line: none;
+    font-size: 3vw;
+}
+
+.back:hover {
+    color: #6ac3da;
+}
+
+.aggregat {
+    font-family: 'Indie Flower', cursive;
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    font-size: 1vw;
+    top: 0.7vw;
+    left: 43vw;
+    color: white;
+    text-decoration-line: none;
+    font-size: 3vw;
+}
+
