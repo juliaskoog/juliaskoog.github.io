@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.bakgrund {
+  background-image: url("Bilder/ec457980f098f1e08447133d9f48338b.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 50vw;
+  background-attachment: scroll;
+  position: absolute;
+} 
+
+.birger {
+  font-family: 'Indie Flower', cursive;
+  width: 20vw;
+  height: 2vw;
+  position: absolute;
+  font-size: 1vw;
+  top: 1vw;
+  left: 1vw;
+  color: black;
+  text-decoration-line: none;
+}
+
+.birger:hover {
+  color: #6ac3da;
+}
+.data {
+  font-family: 'Indie Flower', cursive;
+  width: 50vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 5vw;
+  top: 6vw;
+  left: 28vw;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 0.3vw;
+}
+
+.nätaggregat {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 17vw;
+  left: 43vw;
+  color: black;
+  text-decoration-line: none;
+}
+
+.nätaggregat:hover {
+  color: #6ac3da;
+}
+
+.ramminne {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 21vw;
+  left: 43vw; 
+  color: black;
+  text-decoration-line: none;
+}
+
+.ramminne:hover {
+  color:  #6ac3da;
+}
+
+.moderkort {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 25vw;
+  left: 43vw; 
+  color: black;
+  text-decoration-line: none;
+}
+
+.moderkort:hover {
+  color:  #6ac3da;
+}
+
+.grafikkort {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 29vw;
+  left: 43vw; 
+  color: black;
+  text-decoration-line: none;
+}
+
+.grafikkort:hover {
+  color: #6ac3da;
+}
+
+.chassie {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 33vw;
+  left: 43vw; 
+  color: black;
+  text-decoration-line: none;
+}
+
+.chassie:hover {
+  color: #6ac3da;
+}
+
+.lagring {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 37vw;
+  left: 43vw; 
+  color: black;
+  text-decoration-line: none;
+}
+
+.lagring:hover {
+  color: #6ac3da;
+}
+
+.cpu {
+  font-family: 'Indie Flower', cursive;
+  width: 15vw;
+  height: 10vw;
+  position: absolute;
+  font-size: 2.5vw;
+  top: 41vw;
+  left: 43vw; 
+  color: black;
+ text-decoration-line: none;
+}
+
+.cpu:hover {
+  color: #6ac3da;
+}

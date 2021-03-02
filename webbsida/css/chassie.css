@@ -1,0 +1,92 @@
+body {
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+.bakgrund {
+    background-image: url("../Bilder/standard.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 50vw;
+  background-attachment: scroll;
+  position: absolute;
+}
+
+.border {
+    margin: 0%;
+    background-color: black;
+    height: 5vw;
+    width: 100vw;
+    position: absolute;
+    left: 0vw;
+}
+
+.back {
+    font-family: 'Indie Flower', cursive;
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    font-size: 1vw;
+    top: 0.7vw;
+    left: 1vw;
+    color: white;
+    text-decoration-line: none;
+    font-size: 3vw;
+}
+
+.back:hover {
+    color: #6ac3da;
+}
+
+.chassie {
+    font-family: 'Indie Flower', cursive;
+    width: 5vw;
+    height: 5vw;
+    position: absolute;
+    font-size: 1vw;
+    top: 0.7vw;
+    left: 43vw;
+    color: white;
+    text-decoration-line: none;
+    font-size: 3vw;
+}
+
+.box {
+    background-color: #c5c5c5;
+    width: 29vw;
+    height: 20vw;
+    position:absolute;
+    top: 7vw;
+    left: 10vw;
+    border-radius: 1vw;
+    opacity: 50%;
+}
+
+.text {
+    font-family: 'Indie Flower', cursive;
+    width: 25vw;
+    height: 10vw;
+    position: absolute;
+    font-size: 0.5vw;
+    top: 8vw;
+    left: 13vw;
+    color:black;
+    text-decoration-line: none;
+    font-size: 2vw;
+}
+
+.bild {
+    background-image: url(../Bilder/landing-headline2.png);
+    background-size: 30vw;
+    width: 30vw;
+    height: 17vw;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 10vw;
+    left: 55vw;
+    border-radius: 2vw;
+}
+
+
+
